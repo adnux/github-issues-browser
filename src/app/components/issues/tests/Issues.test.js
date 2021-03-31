@@ -1,5 +1,4 @@
-import { render, screen } from '@testing-library/react';
-import userEvent from '@testing-library/user-event';
+import { render } from '@testing-library/react';
 import { issues } from 'mocks/issues.mock';
 import { Issues } from '../Issues';
 
